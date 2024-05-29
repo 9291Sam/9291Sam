@@ -1,4 +1,4 @@
-I do things with C++ and occasionally Rust
+I do things with C++ and Rust
 
 Send over any questions you have <br>
 Discord: 9291Sam
