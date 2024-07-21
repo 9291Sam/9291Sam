@@ -5,5 +5,4 @@ Discord: 9291Sam
 
 <br>
 Pinned are some of my <s>failed</s> attempts at making a voxel engine.<br>
-Patinac is abandoned due to a library bug.<br>
-Verdigris is where I'm spending my time currently
+Both are abandoned right now due to work / other projects.
